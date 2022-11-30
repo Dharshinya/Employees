@@ -1,0 +1,63 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "name": "Anu rs",
+      "gender": "Female",
+      "contactpreference": "Email",
+      "phonenumber": 9876543210,
+      "dateofbirth": "2007-07-21T18:30:00.000Z",
+      "department": "5",
+      "isactive": true,
+      "photopath": "assets/images/mary.png",
+      "email": "fg@gmail.com"
+    },
+    {
+      " id": 3,
+      "name": "Rose",
+      "gender": "Female",
+      "contactpreference": "Phonenumber",
+      "phonenumber": 9602171060,
+      "dateofbirth": "10/10/1994",
+      "department": " 3",
+      "isactive": false,
+      "photopath": "assets/images/rose.png"
+    },
+    {
+      "id": 4,
+      "name": "Abi",
+      "gender": "Female",
+      "contactpreference": "Phonenumber",
+      "phonenumber": "9876543211",
+      "email": "df@gmail.com",
+      "dateofbirth": "2016-08-22T18:30:00.000Z",
+      "department": "3",
+      "isactive": true,
+      "photopath": "assets/images/rose.png"
+    },
+    {
+      "id": 5,
+      "name": "Robert",
+      "gender": "Male",
+      "contactpreference": "Phonenumber",
+      "phonenumber": "9876543211",
+      "email": "df@gmail.com",
+      "dateofbirth": "2016-08-22T18:30:00.000Z",
+      "department": "2",
+      "isactive": true,
+      "photopath": "assets/images/jack.png"
+    },
+    {
+      "id": 6,
+      "name": "Arun",
+      "gender": "Male",
+      "contactpreference": "Phonenumber",
+      "phonenumber": "2445478688",
+      "email": "yhjj@gmail.com",
+      "dateofbirth": "2022-09-11T18:30:00.000Z",
+      "department": "3",
+      "isactive": true,
+      "photopath": "assets/images/jack.png"
+    }
+  ]
+}
